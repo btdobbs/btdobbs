@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Todd Dobbs
 - 👀 I’m interested in Art Analytics, Image Analytics, Machine Learning, Recommender Systems, Theoretical Computer Science
 - 🌱 I’m currently working on my PhD at UNCC
-- 💞️ I’m looking to collaborate on publishing research papers relate to Art Analytics
+- 💞️ I’m looking to collaborate on publishing research papers related to Art Analytics and Image Analytics involving machine learning
 - 📫 I can be reached at btdobbs@uncc.edu
 
 <!---
