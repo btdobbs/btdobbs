@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Todd Dobbs
-- 👀 I’m interested in Art Authentication, Art Analytics, Image Analytics, Machine Learning, Recommender Systems, Theoretical Computer Science
-- 🌱 I’m currently working on my PhD at UNCC
-- 💞️ I’m looking to collaborate on publishing research papers related to Art Analytics and Image Analytics involving machine learning
-- 📫 I can be reached at btdobbs@uncc.edu
+- 👋 Hi, my name is Todd Dobbs.
+- 👀 I’m interested in teaching computer science and researching topics where art and computer science intersect.  I am also interested in the mathematical and theoretical foundations of computer science.
+- 🌱 I will graduate with my PhD in Computer Science at UNCC in December 2022.
+- 💞️ I’m looking to collaborate with artists, astronomers, and mathematicians.
+- 📫 I can be reached at btdobbs@uncc.edu.
 
 <!---
 btdobbs/btdobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
